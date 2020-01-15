@@ -9,6 +9,7 @@
 <body>
     <?php include "header.html";?>
     <div>Hello World</div>
+    <a href="catalog.php">Catalog(next page)</a>
     <?php include "footer.html";?>
 </body>
 </html>
